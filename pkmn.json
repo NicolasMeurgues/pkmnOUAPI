@@ -1,4 +1,4 @@
-[
+{"pokemons":[
     {
         "species": "Alakazam",
         "item": ["Alakazite"],
@@ -797,4 +797,4 @@
         "nature": "Brave",
         "moves": [["Sticky Web"], ["Liquidation"], ["Magic Coat"], ["Hidden Power Fire"]]
     }
-]
+]}
